@@ -1,8 +1,0 @@
-172.22.0.1 - - [16/Jan/2020:11:41:01 +0100] "GET / HTTP/1.1" 500 578201 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.90 Chrome/75.0.3770.90 Safari/537.36"
-172.22.0.1 - - [16/Jan/2020:11:41:01 +0100] "GET /_ignition/health-check HTTP/1.1" 500 578109 "http://localhost:8100/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.90 Chrome/75.0.3770.90 Safari/537.36"
-172.22.0.1 - - [16/Jan/2020:11:42:31 +0100] "GET / HTTP/1.1" 500 577218 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.90 Chrome/75.0.3770.90 Safari/537.36"
-172.22.0.1 - - [16/Jan/2020:11:44:21 +0100] "GET / HTTP/1.1" 500 577218 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.90 Chrome/75.0.3770.90 Safari/537.36"
-172.22.0.1 - - [16/Jan/2020:11:46:59 +0100] "GET / HTTP/1.1" 500 577218 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.90 Chrome/75.0.3770.90 Safari/537.36"
-172.22.0.1 - - [16/Jan/2020:11:47:16 +0100] "GET / HTTP/1.1" 500 577218 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.90 Chrome/75.0.3770.90 Safari/537.36"
-172.22.0.1 - - [16/Jan/2020:11:47:52 +0100] "GET / HTTP/1.1" 200 2466 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.90 Chrome/75.0.3770.90 Safari/537.36"
-172.22.0.1 - - [16/Jan/2020:11:48:43 +0100] "-" 408 0 "-" "-"
